@@ -1,4 +1,7 @@
 h1 {
-    font-family: 'Ravi Prakash', cursive;
-    border-left: 10px solid red; 
+    color: blue;
+    background-color: darkorange; 
+    letter-spacing: 2em;
+    line-height: 2em;
+    word-spacing: 2em;
 }
